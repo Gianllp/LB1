@@ -37,6 +37,7 @@ Website anzeigen
 Öffne deinen Webbrowser und gehe zur folgenden Adresse, um die Hello World HTML-Website zu sehen:
 
 http://localhost:8080
+
 Arbeiten im Container
 
 Du kannst den Container bearbeiten und Änderungen an der index.html-Datei vornehmen. Der Container aktualisiert automatisch den Webserver, wenn Änderungen vorgenommen werden.
